@@ -30,7 +30,7 @@ TERM = "xterm-256color"
 LANG = "en_US.UTF-8"
 
 [font]
-size = 10.0
+size = 7.0
 
 [font.bold]
 family = "FiraCode Nerd Font"
